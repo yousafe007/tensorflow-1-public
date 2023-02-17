@@ -1,4 +1,4 @@
-This repository contains my own edition in the Jupyter notebook.
+This repository contains my own edition in the Jupyter notebooks.
 
 # DeepLearning.AI TensorFlow Developer
 
