@@ -1,3 +1,5 @@
+This repository contains my own edition in the Jupyter notebook.
+
 # DeepLearning.AI TensorFlow Developer
 
 Welcome to the public repo for this course.
